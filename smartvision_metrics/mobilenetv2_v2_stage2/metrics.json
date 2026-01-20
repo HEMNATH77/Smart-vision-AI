@@ -1,0 +1,12 @@
+{
+  "model_name": "mobilenetv2_v2_stage2",
+  "accuracy": 0.744,
+  "precision_weighted": 0.7590861556743909,
+  "recall_weighted": 0.744,
+  "f1_weighted": 0.7443876120632761,
+  "top5_accuracy": 0.92,
+  "avg_inference_time_sec": 0.014606117066616813,
+  "images_per_second": 68.46446563717896,
+  "model_size_mb": 12.930023193359375,
+  "num_parameters": 2598489
+}

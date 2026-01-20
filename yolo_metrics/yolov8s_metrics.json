@@ -1,0 +1,8 @@
+{
+  "model_name": "yolov8s_smartvision",
+  "map_50": 0.6982949827965941,
+  "map_50_95": 0.3907940514394122,
+  "num_val_images_for_speed_test": 0,
+  "avg_inference_time_sec": 0.0,
+  "fps": 0.0
+}

@@ -1,0 +1,12 @@
+{
+  "model_name": "vgg16_v2_stage2",
+  "accuracy": 0.6773333333333333,
+  "precision_weighted": 0.6932823021491752,
+  "recall_weighted": 0.6773333333333333,
+  "f1_weighted": 0.6748957788518803,
+  "top5_accuracy": 0.8613333333333333,
+  "avg_inference_time_sec": 0.11462649466656148,
+  "images_per_second": 8.723986569674953,
+  "model_size_mb": 111.80579376220703,
+  "num_parameters": 14852441
+}
