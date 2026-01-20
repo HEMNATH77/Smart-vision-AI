@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👁️ SmartVision AI
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -221,3 +222,6 @@ Perfect for:
 ---
 
 Enjoy using SmartVision AI! 🚀🧠
+=======
+# Smart-vision-AI
+>>>>>>> ef0986f82db7a8c8b3673315cf480bfe8b2aa437
